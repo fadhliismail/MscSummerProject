@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-38a15d3ff5861de09e100c7d14b6db329ecb2a89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-0cd17079f1c63e678a8ecbcbb53c1fbec3958202.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2552fb33be76ed7ced9570a146301631f320d0d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-616410732cceb9541f01074fe518bb5a1ba4dd24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-91354102ffb5aad01452dc5280ab1433b182b45c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-aa1bd5ebaa2d7bb5abe87481414a81230bbad2a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-b2fc9957953fe4a3a6668cb53353a08103190f98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-0e19a15475c7a11ec7d611ced5a75776ff66e197.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-97c5d30409a67c34b1212f0a7ae30421da76bd58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-923eb368313925c63e56d867a18feff9738c74ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\PhysicalWebTryOut AutoSend URL\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="290a5ecb39f34fbdd39f0781b6e7fb9909ef6be3">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-ae22ee651abc42dd102f42b4e01b45aadde19bd6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-90a5562fe02411502b057d414185053141cc62ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-0f29cb675b13910b49b6ac9abe2b169f27119f39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-7b0f1b3284efe7451bfc9fb7b2b3243c1d3bfe3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-c28fe9f29658e48948ed95f29202346bb7d7d7eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d3756a230d4badc210db39b0d7ba7639ab248b56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-c46ea6e1e837aebeff91bbb4d8db86dd6e609a83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-b2cafeaef77973a060af13c5477d4d10000e6f73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-df6df55d7851dffa3de0788f9c7ecb01324d6d6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-f21b6568758aefda1af082b2d1dfb981a1dfdcfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-0467dbf8e84417ca167d3c32246bc28a25b8218e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-f80157cace9162de35cda82bfe54d99a729456ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-ce536c81b0165cb0d8d568fdb9a9f8c44ecdb685.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-5d86066a2a4b7a27ee327ac5c4272207696691e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-b40ab8cf93e46a74553075ef4c74d33af4f2d838.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-05a8c9933576a48496f662ef1c2fd0c1145584cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-9e7cb14a164ffccf0ec40d3a757c7d6e76f34ee7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-e5afc3741a2ce14ff8145127b4fff6a3ddea4bc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-ba0e16c0735ab963a7ea00fccb77276c9b7aa01d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-3b93f27d990dec2a104e7b43a3c6930300469394.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-6dcbb8d542d287e59462b3ada795a78e0d881318.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-4111d0afdeb1e64ca0e577133f05d9d46078b562.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-d1524d353bb9bcb26e0a74e16ad8fcb7becb5c2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-a405bcc77f47effe39914f9c899fe6e91b3644d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-775a2a2e1bdc503848fa3dc0dd57ac49d2866cc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-4d2345ae0a359f007c75fe4ba4eb2e6c04868bc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\org.uribeacon\uribeacon-library-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="139ac6a4734908b841e816a63a55da7100e81c97">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-3ffed032e340bb247c87ddbdea4018901c1fc163.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\PhysicalWebTryOut\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f8b1d4d7e14c0c2a512b47b15a41e43696baac4c">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-81c2d101e49858e74fc5d52f42bdb4b0206c7e37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-4ab415c0990bf3864bfda384b4a0910f1ed62492.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-444819bad374a85ac6b997a1477938a5842ba54f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\org.uribeacon\uribeacon-library-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="139ac6a4734908b841e816a63a55da7100e81c97">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-e43267bb18a3ba87444c0439908b14104d976edd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-d867ed0f4ba7b2d35efa513d232ee67b2f5f2254.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-9af8ff5dc06521f5d1f34e4fe92aa6fba300045e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-db78a586cf28480f478584a05af722217013da2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-f6611856f3a03ea8a8c28929cd055320890b3728.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-f43c568e044a9775c391df146031ed958f6e2e9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.volley\volley\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ef3d2dfdda0d90c16104d281731dccfffcea7f3">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-abdb2d4635ea3ed7c2a02e5296cced96fbfbc750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.volley\volley\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ef3d2dfdda0d90c16104d281731dccfffcea7f3">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-8547e0bf5a926f358a4b7159fbb5fb496f8e31a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-6daab43988022954cc1d4aa5eb528316548149ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-c6bdc9eeeda73b750323d09c59ecc9f0ee4c9b04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0d033b84787622f57c565977d16e345d1fcedfeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-e07100b6f6e7cf11d82b31ca50afb5835e8e23a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-2ec91d905772a713674e91b69167afcb335c60e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-a9ae9c4506480f2d6a855db1a61eb36cd275149d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-d26e7803a5230dd755d8563b21c4442395ef87eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-e5a278c2dd4f0bbd5ebd634a67da4e8bdcc1970a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-62ff0d8874c8cf7bba841b4391298dbe7fd55caf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\classes-fdc445fe01663fcb175b6fd15206bb2e96734efd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-9f086eb344b0cf37f9d50e9a3b4a45cedc583b42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-4f8e870ec7ef12d2e3478b4ba496d3bed362e8ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\smartwatch\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-308e82d79250ab21931399e01c3f4ca15f92b845.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-b93b7d723e0786581de483d19f601de858c576a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-58c008132b2b7dcda513a4d0e8163fe8e148956d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-676fa22b52cc2fe2ce55a8be507488c075c33217.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut\app\build\intermediates\pre-dexed\debug\classes-d4dcba145f0c5f14c3b6a7be59cd797578703302.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-96789e6a4b896eb4ec59c80846950a133701f21e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-19feb51c47f2db87e2b2d8d7eb73c6f2bbeab39f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-cc75c1a2427e00951b0eedc38274d7bd283a49ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\smartwatch\build\intermediates\pre-dexed\debug\classes-7eb6bd2c41301e73c9625f85b49c3f734db8e787.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Fadhli Ismail\Desktop\PhysicalWebTryOut AutoSend URL\app\build\intermediates\pre-dexed\debug\classes-2121d677adeca464fb72d0584fdbabf7dbdfb78f.jar" />
+    </item>
+
+</items>

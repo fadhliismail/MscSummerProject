@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="uribeacon-library-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.uribeacon/uribeacon-library-release/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.uribeacon/uribeacon-library-release/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

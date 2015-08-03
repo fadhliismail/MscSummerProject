@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smartwatch</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_shake_turn_on">ShakeTurnOn</string>
+    <string name="title_activity_tilt_control_brightness_color">TiltControlBrightnessColor</string>
+</resources>
